@@ -1,0 +1,14 @@
+.lifeofsuketh{
+    text-align:left;
+}
+.lifelessonlist{
+    text-align:center;
+    list-style:none;
+    margin:2rem;
+    padding:0;
+}
+.lifelessonlist li{
+    margin: 1rem 0;
+    border: 1px solid rgb(12, 6, 6);
+    padding: 1rem;
+}
